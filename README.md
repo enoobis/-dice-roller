@@ -1,6 +1,8 @@
 # dice-roller
 simple dice roller app
+
 ![image](https://user-images.githubusercontent.com/62465404/224482724-20e0c28a-7a75-4644-8572-4c91fc55b569.png)
+
 ## Usage
 
 To run the application, execute the following command:
